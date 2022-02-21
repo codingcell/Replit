@@ -66,6 +66,7 @@ ul.ul_menu {
     color: #fff;
     padding: 10px;
     opacity: 0.8;
+    display: none;
 }
 .btn {
     font-size: 14px;
